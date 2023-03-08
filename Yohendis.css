@@ -1,0 +1,85 @@
+body {
+    background-color:rgb(41,38,38);
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Copperplate';
+    font-weight: bolder;
+    font-style: inherit;
+    text-align: center;
+    color: rgb(0,225,255);
+}
+
+h2 {
+    font-size: 45px;
+    font-family: 'Copperplate';
+    font-weight: bolder;
+    font-style: inherit;
+    text-align: center;
+    color: rgb(0,225,255);
+}
+
+div {
+    width: 600px;
+    margin: auto;
+    background-color: rgb(41, 38, 38);
+  }
+
+  #p1 {background-color:rgb(84,200,232); opacity: 0.6;}
+  p{
+    font-size: 50px;
+    font-family: 'Copperplate';
+    font-weight: bold;
+    text-align: center;
+    color: rgb(27, 27, 26) ;
+  }
+
+  p1{
+    font-size: 35px;
+    font-family: 'Copperplate';
+    font-weight: bold;
+    color: rgb(255, 255, 255) ;
+  }
+  .container {
+    display:block;
+    justify-content: center;
+    }
+  .button {
+    background-color: rgb(84,200,232);
+    border: none;
+    color: rgb(27, 27, 26);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 0 20;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+  .button1 {
+    background-color: rgb(0, 96, 122);
+    border: none;
+    color: rgb(27, 27, 26);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 0 20;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+  .button1 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
+  .button2 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
+  .button3 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
+ 
+  a {
+    color: rgb(27, 27, 26); /* istediğiniz rengin hex kodunu buraya girin */
+  }
+  .button4 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
+  .button5 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
+  .button6 { box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2), 0 6px 25px 0 rgba(0,0,0,0.19);}
